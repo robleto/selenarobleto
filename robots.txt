@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: http://www.selenarobleto.com/sitemap.xml
+Sitemap: https://www.selenarobleto.com/sitemap.xml
  
 # Disallow all directories and files within
 Disallow: /php_uploads/
